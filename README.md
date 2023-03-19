@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @XrivertzerX
-- 👀 I’m interested in pythoning
-- 🌱 I’m currently learning python, and design software like adobe cc
+- 👀 I’m interested in Web Developing
+- 🌱 I’m currently learning python, html & css, javascript, and design software like adobe
 - 💞️ I’m looking to collaborate on creating something marvelous
-- 📫 How to reach me my instagram is @maherboys
+- 📫 How to reach me my instagram is @voyalcielo_17
 
 I hope that i can get some friends that could help me facing the hardness of life
 ---------------Thank You----------------
